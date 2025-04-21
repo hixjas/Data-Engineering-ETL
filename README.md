@@ -24,8 +24,8 @@ A RESTful API service built with Flask that provides geographic business data fo
 
 
 ### Clone repo
-git clone https://github.com/yourusername/columbus-business-locator.git
-cd columbus-business-locator
+git clone https://github.com/hixjas/Data-Engineering-ETL
+cd Data-Engineering-ETL
 
 ## Ethical considerations:
 This project incorporates several ethical considerations in its design and implementation:
