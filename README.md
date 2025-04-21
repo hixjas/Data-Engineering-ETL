@@ -22,8 +22,8 @@ A RESTful API service built with Flask that provides geographic business data fo
 - PostgreSQL 13+
 - pipenv (recommended)
 
-```bash
-# Clone repo
+
+### Clone repo
 git clone https://github.com/yourusername/columbus-business-locator.git
 cd columbus-business-locator
 
@@ -42,18 +42,18 @@ References for the data source(s)
 
 1. Primary Business Data:
 
-Columbus Open Data Portal
-Last updated: March 2025
-License: Public Domain
+ - Columbus Open Data Portal
+ - Last updated: March 2025
+ - License: Public Domain
 
 2. Community Boundaries:
 
-City of Columbus Planning Division
-Last updated: February 2025
-License: CC-BY 4.0
+ - City of Columbus Planning Division
+ - Last updated: February 2025
+ - License: CC-BY 4.0
 
 3. Geospatial Reference Data:
 
-OpenStreetMap
-Continuously updated
-License: ODbL 1.0
+ - OpenStreetMap
+ - Continuously updated
+ - License: ODbL 1.0
